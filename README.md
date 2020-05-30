@@ -18,4 +18,5 @@
 9. on the pageobject initaite the iwebelement inspecting elements accordingly also write the method for each of the elements that is inspected
 10. in the stepdefintions, call the methods written on the pageobjects.
 11. run the test
+
 ![image](https://user-images.githubusercontent.com/62223840/83322188-7c4faf80-a24d-11ea-93f3-12e1f3c40f2a.png)
